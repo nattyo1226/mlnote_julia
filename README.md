@@ -1,1 +1,2 @@
-# 機械学習長 (岡崎 直観)
+# 機械学習帳
+[mlnote](https://github.com/chokkan/mlnote) in Julia
